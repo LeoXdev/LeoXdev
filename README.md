@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeoXdev aka Leo Tovíaz
 - 👀 I’m interested in... i'm not sure yet :(
-- 🌱 I’m currently learning Java at collegue, Unity & Golang by myself.
+- 🌱 I’m currently learning Java at collegue, idk what to learn by myself :(
 - 💞️ I’m looking to collaborate on ... (coming soon...)
 - 📫 How to reach me: YT-LeoXdev, Steam-LeoXdev.
 
