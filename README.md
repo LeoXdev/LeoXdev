@@ -1,8 +1,43 @@
-- 👋 Hi, I’m @LeoXdev aka Leonardo Tovíaz.
-- 👀 I’m interested in... Backend, and Game Development.
-- 🌱 I’m currently learning... Java at varsity, and Golang by myself.
-- 💞️ I’m looking to collaborate... on a Megaman X fangame in the future.
-- 📫 How to reach me... as LeoXdev on Youtube, Discord and Steam.
+# 👋 Hi, I’m Leonardo Tovíaz aka LeoXdev
+
+
+I'm a first year computer science student, i also enjoy to develop personal projects and read books on my free time.
+Just participated in my first Hackathon with a friend (we didn't win but we'll be back for sure!).
+
+- 👀 I’m interested in Backend development, Cloud Computing and Unity/Metaverse development as career options.
+- 🌱 I’m currently learning **OOP in Java** at college, and **Golang** by myself.
+- 💞️ I’m looking to collaborate on a Megaman X fangame in the future (maybe once i finish my "own").
+              <!-- Reach me section -->
+- 📫 You can reach me on: as LeoXdev on Youtube, Discord and Steam.
+
+<h3 align="left">You can reach me on:</h3>
+<p align="left">
+  
+<a href="https://www.youtube.com/channel/UC2_GPZyj6cS1P0t7bizBOnA" target="_blank" rel="noopener noreferrer"><img align="center"
+src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /> as LeoXdev, i tend to reply and heart comments a lot! </a>
+
+<a href="https://discordapp.com/users/817916929574567936" target="_blank" rel="noopener noreferrer"><img align="center"
+src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /> also as LeoXdev, i'm not either active or inactive there. </a>
+
+</p>
+
+<!--- Technologies used by me
+
+<h3 align="left">Technologies i use:</h3>
+<p align="left">
+  
+<a href="go.dev" target="_blank" rel="noopener noreferrer"><img align="center"
+src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/go.svg" alt="youtube" height="30" width="40" /> Golang, i'm learning this on my own (and i'm really enjoying the road!) </a>
+
+<a href="https://discordapp.com/users/817916929574567936" target="_blank" rel="noopener noreferrer"><img align="center"
+src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /> also as LeoXdev, i'm not either active or inactive there. </a>
+
+</p>
+
+--->
+
+
+> My first commits in Github were actually unfinished README.md updates...
 
 <!---
 LeoXdev/LeoXdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
