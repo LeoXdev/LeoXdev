@@ -8,7 +8,6 @@ Just participated in my first Hackathon with a friend (we didn't win but we'll b
 - 🌱 I’m currently learning **OOP in Java** at college, and **Golang** by myself.
 - 💞️ I’m looking to collaborate on a Megaman X fangame in the future (maybe once i finish my "own").
               <!-- Reach me section -->
-- 📫 You can reach me on: as LeoXdev on Youtube, Discord and Steam.
 
 <h3 align="left">You can reach me on:</h3>
 <p align="left">
