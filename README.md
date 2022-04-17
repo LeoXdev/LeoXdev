@@ -20,22 +20,18 @@ src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/
 
 </p>
 
-<!--- Technologies used by me
 
 <h3 align="left">Technologies i use:</h3>
 <p align="left">
-  
-<a href="go.dev" target="_blank" rel="noopener noreferrer"><img align="center"
-src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/go.svg" alt="youtube" height="30" width="40" /> Golang: </a> API REST, Networking
-<br> Libraries: Standard library, 
-<br> Frameworks: 
-
+ 
 <a href="https://discordapp.com/users/817916929574567936" target="_blank" rel="noopener noreferrer"><img align="center"
-src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /> also as LeoXdev, i'm not either active or inactive there. </a>
+src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="discord" height="30" width="40" /> Java: </a> Language basics, OOP (still learning it).
+
+<a href="go.dev" target="_blank" rel="noopener noreferrer"><img align="center"
+src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/go.svg" alt="youtube" height="30" width="40" /> Golang: </a> Language basics (still learning them).
 
 </p>
 
---->
 
 
 > My first commits in Github were actually unfinished README.md updates...
