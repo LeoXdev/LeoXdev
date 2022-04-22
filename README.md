@@ -13,7 +13,7 @@ Just participated in my first Hackathon with a friend (we didn't win but we'll b
 <p align="left">
   
 <a href="https://www.youtube.com/channel/UC2_GPZyj6cS1P0t7bizBOnA" target="_blank" rel="noopener noreferrer"><img align="center"
-src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /> (Youtube) as LeoXdev, i tend to reply and heart comments a lot! </a>
+src="https://github.com/peterthehan/peterthehan/blob/main/assets/youtube.svg" alt="youtube" height="30" width="40" /> (Youtube) as LeoXdev, i tend to reply and heart comments a lot! </a>
 
 <a href="https://discordapp.com/users/817916929574567936" target="_blank" rel="noopener noreferrer"><img align="center"
 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /> (Discord) also as LeoXdev, i'm not either active or inactive there. </a>
@@ -24,7 +24,7 @@ src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/
 <h3 align="left">Technologies i use:</h3>
 <p align="left">
  
-<a href="https://discordapp.com/users/817916929574567936" target="_blank" rel="noopener noreferrer"><img align="center"
+<a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img align="center"
 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="discord" height="30" width="40" /> Java: </a> Language basics, OOP, Collections (still learning them).
 
 <a href="go.dev" target="_blank" rel="noopener noreferrer"><img align="center"
