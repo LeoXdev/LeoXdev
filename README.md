@@ -2,7 +2,7 @@
 
 
 I'm a first year computer science student, i also enjoy to develop personal projects and read books on my free time.
-Just participated in my first Hackathon with a friend (we didn't win but we'll be back for sure!).
+Recently participated in my first Hackathon with a friend (we didn't win but we'll be back for sure!).
 
 - 👀 I’m interested in Backend development, Cloud Computing and Unity/Metaverse development as career options.
 - 🌱 I’m currently learning **OOP in Java** at college, and **Golang** by myself.
