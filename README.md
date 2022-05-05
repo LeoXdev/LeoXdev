@@ -21,14 +21,14 @@ src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/
 </p>
 
 
-<h3 align="left">Technologies i use:</h3>
+<h3 align="left">Technologies i use (and the topics i've learned):</h3>
 <p align="left">
  
 <a href="https://dev.java/" target="_blank" rel="noopener noreferrer"><img align="center"
-src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java" height="30" width="40" /> Java: </a> Language basics, OOP, Collections (still learning them).
+src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java" height="30" width="40" /> Java: </a> Language basics, OOP, Collections/DSA (still learning them).
 
 <a href="https://go.dev/" target="_blank" rel="noopener noreferrer"><img align="center"
-src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/go.svg" alt="golang" height="30" width="40" /> Golang: </a> Language basics (still learning them).
+src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/go.svg" alt="golang" height="30" width="40" /> Golang: </a> Language basics (still learning them)<!--, Modules, OOP-->.
   
 <a href="https://unity.com/developer-tools" target="_blank" rel="noopener noreferrer"><img align="center"
 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/GameEngines/unity.svg" alt="unity" height="30" width="40" /> Unity: </a> Framework basics (still learning them).
