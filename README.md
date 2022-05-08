@@ -18,6 +18,12 @@ src="https://github.com/peterthehan/peterthehan/blob/main/assets/youtube.svg" al
 <a href="https://discordapp.com/users/817916929574567936" target="_blank" rel="noopener noreferrer"><img align="center"
 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /> (Discord) also as LeoXdev, i'm not either active or inactive there. </a>
 
+<a href="https://www.sololearn.com/profile/21587777" target="_blank" rel="noopener noreferrer"><img align="center"
+src="https://www.pngegg.com/en/png-yrobn" alt="sololearn" height="30" width="40" /> (Sololearn) w/my real name, i like to take code challengues from other
+people and complete some courses lessons. </a>
+
+
+
 </p>
 
 
