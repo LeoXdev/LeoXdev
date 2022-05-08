@@ -13,13 +13,13 @@ Recently participated in my first Hackathon with a friend (we didn't win but we'
 <p align="left">
   
 <a href="https://www.youtube.com/channel/UC2_GPZyj6cS1P0t7bizBOnA" target="_blank" rel="noopener noreferrer"><img align="center"
-src="https://github.com/peterthehan/peterthehan/blob/main/assets/youtube.svg" alt="youtube" height="30" width="40" /> (Youtube) as LeoXdev, i tend to reply and heart comments a lot! </a>
+src="https://github.com/peterthehan/peterthehan/blob/main/assets/youtube.svg" alt="youtube" height="35" width="35" /> (Youtube) as LeoXdev, i tend to reply and heart comments a lot! </a>
 
 <a href="https://discordapp.com/users/817916929574567936" target="_blank" rel="noopener noreferrer"><img align="center"
-src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /> (Discord) also as LeoXdev, i'm not either active or inactive there. </a>
+src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="discord" height="35" width="35" /> (Discord) also as LeoXdev, i'm not either active or inactive there. </a>
 
 <a href="https://www.sololearn.com/profile/21587777" target="_blank" rel="noopener noreferrer"><img align="center"
-src="https://raw.githubusercontent.com/LeoXdev/LeoXdev/main/img/sololearn-icon.png" alt="sololearn" height="40" width="40" /> (Sololearn) w/my real name, i like to take code challengues from other
+src="https://raw.githubusercontent.com/LeoXdev/LeoXdev/main/img/sololearn-icon.png" alt="sololearn" height="35" width="35" /> (Sololearn) w/my real name, i like to take code challengues from other
 people and complete some courses lessons. </a>
 
 
@@ -31,13 +31,14 @@ people and complete some courses lessons. </a>
 <p align="left">
  
 <a href="https://dev.java/" target="_blank" rel="noopener noreferrer"><img align="center"
-src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java" height="30" width="40" /> Java: </a> Language basics, OOP, Collections/DSA (still learning them).
+src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java" height="40" width="40" /> Java: </a> Language basics, OOP, Collections/DSA (still learning them).
 
 <a href="https://go.dev/" target="_blank" rel="noopener noreferrer"><img align="center"
-src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/go.svg" alt="golang" height="30" width="40" /> Golang: </a> Language basics, Modules (still learning them)<!--, OOP-->.
+src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/go.svg" alt="golang" height="40" width="40" /> Golang: </a> Language basics, OOP (still learning it).
   
 <a href="https://unity.com/developer-tools" target="_blank" rel="noopener noreferrer"><img align="center"
-src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/GameEngines/unity.svg" alt="unity" height="30" width="40" /> Unity: </a> Framework basics (still learning them).
+src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/GameEngines/unity.svg" alt="unity" height="40"
+width="40" /> Unity: </a> Framework basics (still learning them).
 
 </p>
 
