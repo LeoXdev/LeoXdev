@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Leonardo Tovíaz aka LeoXdev
 
-
-I'm a first year computer science student, i also enjoy to develop personal projects and read books on my free time.
-Recently participated in my first Hackathon with a friend (we didn't win but we'll be back for sure!).
+First year CS student, i enjoy to read programming books and articles, develop personal projects and keep learning, but it's also important to relax and watch Netflix, hang out with friends, go to parties...
 
 - 👀 I’m interested in Backend development, Cloud Computing and Unity/Metaverse development as career options.
 - 🌱 I’m currently learning **OOP in Java** at college, and **Golang** by myself.
