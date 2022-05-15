@@ -32,11 +32,11 @@ people and complete some courses lessons. </a>
 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java" height="40" width="40" /> Java: </a> Language basics, OOP, Collections/DSA (still learning them).
 
 <a href="https://go.dev/" target="_blank" rel="noopener noreferrer"><img align="center"
-src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/go.svg" alt="golang" height="40" width="40" /> Golang: </a> Language basics, OOP (still learning it).
+src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/go.svg" alt="golang" height="40" width="40" /> Golang: </a> Language basics (still learning them).
   
 <a href="https://unity.com/developer-tools" target="_blank" rel="noopener noreferrer"><img align="center"
 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/GameEngines/unity.svg" alt="unity" height="40"
-width="40" /> Unity: </a> Framework basics (still learning them).
+width="40" /> Unity: </a> Framework basics, 2D (still learning it).
 
 </p>
 
