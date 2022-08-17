@@ -2,23 +2,22 @@
 
 First year CS student, i enjoy to read programming books and articles, develop personal projects and keep learning, but it's also important to relax and watch Netflix, hang out with friends, go to parties...
 
-- 👀 I’m interested in Backend development, Cloud Computing and Unity/Metaverse development as career options.
-- 🌱 I’m currently learning **OOP in Java** at college, and **Golang** by myself.
-- 💞️ I’m looking to collaborate on a Megaman X fangame in the future (maybe once i finish my "own").
+- 👀 I’m interested in Backend development, Cloud Computing/DevOps and Unity/Metaverse development as career options.
+- 🌱 I’m currently learning **DSA in Java** at college, and **Golang** by myself.
+- 💞️ I’m looking to collaborate on *undefined*.
               <!-- Reach me section -->
 
 <h3 align="left">You can reach me on:</h3>
 <p align="left">
   
 <a href="https://www.youtube.com/channel/UC2_GPZyj6cS1P0t7bizBOnA" target="_blank" rel="noopener noreferrer"><img align="center"
-src="https://github.com/peterthehan/peterthehan/blob/main/assets/youtube.svg" alt="youtube" height="35" width="35" /> (Youtube) as LeoXdev, i tend to reply and heart comments a lot! </a>
+src="https://github.com/peterthehan/peterthehan/blob/main/assets/youtube.svg" alt="youtube" height="35" width="35" /> (Youtube) as LeoXdev, i tend to heart comments a lot! (ending soon). </a>
 
 <a href="https://discordapp.com/users/817916929574567936" target="_blank" rel="noopener noreferrer"><img align="center"
 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="discord" height="35" width="35" /> (Discord) also as LeoXdev, i'm not either active or inactive there. </a>
 
 <a href="https://www.sololearn.com/profile/21587777" target="_blank" rel="noopener noreferrer"><img align="center"
-src="https://raw.githubusercontent.com/LeoXdev/LeoXdev/main/img/sololearn-icon.png" alt="sololearn" height="35" width="35" /> (Sololearn) w/my real name, i like to take code challengues from other
-people and complete some courses lessons. </a>
+src="https://raw.githubusercontent.com/LeoXdev/LeoXdev/main/img/sololearn-icon.png" alt="sololearn" height="35" width="35" /> (Sololearn) w/my real name, recently got inactive here. </a>
 
 
 
