@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Leonardo Tovíaz aka LeoXdev
 
-First year CS student, i enjoy to read programming books and articles, develop personal projects and keep learning, but it's also important to relax and watch Netflix, hang out with friends, go to parties...
+Second year CS student, learning everyday but also having fun.
 
-- 👀 I’m interested in Backend development, Cloud Computing/DevOps and Unity/Metaverse development as career options.
-- 🌱 I’m currently learning **DSA in Java** at college, and **Golang** by myself.
+- 👀 I’m interested in Web development, Cloud Computing/DevOps and Unity/Metaverse development as career options.
+- 🌱 I’m currently learning **DSA in Java** and **MySQL** at college, and **Golang** by myself.
 - 💞️ I’m looking to collaborate on *undefined*.
               <!-- Reach me section -->
 
