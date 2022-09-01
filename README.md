@@ -40,6 +40,10 @@ src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/
 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/GameEngines/unity.svg" alt="unity" height="40"
 width="40" /> Unity: </a> Framework basics, 2D (still learning it).
 
+<a href=" " target="_blank" rel="noopener noreferrer"><img align="center"
+src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="unity" height="40"
+width="40" /> MySQL: </a> System basics/CRUD (still learning them)<!--, Queries, Joins/Indexes/Keys, Clauses/Flow control, Constraints, Triggers, Regexp-->.
+
 </p>
 
 
