@@ -34,7 +34,7 @@ src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/
 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/go.svg" alt="golang" height="40" width="40" /> Golang: </a> Language basics, OOP, API Development (still learning it), Modules (still learning them).
   
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img align="center"
-src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="40" width="40" /> Javascript: </a> Language basics.
+src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="40" width="40" /> Javascript: </a> Language basics, Asynchronous Programming (still learning it).
   
 <a href="https://unity.com/developer-tools" target="_blank" rel="noopener noreferrer"><img align="center"
 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/GameEngines/unity.svg" alt="unity" height="40"
@@ -42,7 +42,7 @@ width="40" /> Unity: </a> Framework basics, 2D (still learning it).
 
 <a href=" " target="_blank" rel="noopener noreferrer"><img align="center"
 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="unity" height="40"
-width="40" /> MySQL: </a> System basics/CRUD, Queries (still learning them), Joins/Indexes/Keys (still learning them)<!--, Clauses/Flow control, Constraints, Triggers, Regexp-->.
+width="40" /> MySQL: </a> System basics/CRUD, Filtering, Indexes/Keys (still learning them)<!--, Joins , Clauses/Flow control, Constraints, Triggers, Regexp-->.
 
 </p>
 
