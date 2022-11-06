@@ -31,10 +31,10 @@ src="https://raw.githubusercontent.com/LeoXdev/LeoXdev/main/img/sololearn-icon.p
 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java" height="40" width="40" /> Java: </a> Language basics, OOP, Collections/DSA (still learning them).
 
 <a href="https://go.dev/" target="_blank" rel="noopener noreferrer"><img align="center"
-src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/go.svg" alt="golang" height="40" width="40" /> Golang: </a> Language basics, OOP, API Development (still learning it), Modules (still learning them).
+src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/go.svg" alt="golang" height="40" width="40" /> Golang: </a> Language basics, OOP, API development (still learning it), Modules (still learning them).
   
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img align="center"
-src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="40" width="40" /> Javascript: </a> Language basics, Asynchronous Programming (still learning it).
+src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="40" width="40" /> Javascript: </a> Language basics<!--, Asynchronous Programming (still learning it)-->.
   
 <a href="https://unity.com/developer-tools" target="_blank" rel="noopener noreferrer"><img align="center"
 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/GameEngines/unity.svg" alt="unity" height="40"
