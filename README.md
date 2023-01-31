@@ -24,7 +24,7 @@ src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/
 <p align="left">
  
 <a href="https://dev.java/" target="_blank" rel="noopener noreferrer"><img align="center"
-src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java" height="40" width="40" /> Java: </a> Language basics, OOP, Collections/DSA (still learning them).
+src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java" height="40" width="40" /> Java: </a> Language basics, OOP, Collections/DSA (still learning them), Streams (still learning them).
 
 <a href="https://go.dev/" target="_blank" rel="noopener noreferrer"><img align="center"
 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/go.svg" alt="golang" height="40" width="40" /> Golang: </a> Language basics, OOP, Modules, API development (still learning it).
