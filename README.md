@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Leonardo Tovíaz aka LeoXdev
 
-Third year CS student, learning everyday but also having fun.
+Fourth year CS student, learning everyday but also having fun.
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning some DSA/math/CCNA...
