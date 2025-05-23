@@ -2,9 +2,9 @@
 
 Third year CS student, learning everyday but also having fun.
 
-- 👀 I’m interested in Backend development, Cloud Computing or Mobile development as career options.
-- 🌱 I’m currently learning some intermediate/advanced **Golang** by myself.
-- 💞️ I’m looking to collaborate on *undefined*.
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning some DSA/math/CCNA...
+- 💞️ I’m looking to collaborate on ...
               <!-- Reach me section -->
 
 <h3 align="left">You can reach me on:</h3>
@@ -25,8 +25,3 @@ Third year CS student, learning everyday but also having fun.
   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/GameEngines/unity.svg" alt="unity" height="40" width="40" style="margin-right: 10px;"/>
   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/git.svg" alt="git" height="40" width="40"/>
 </p>
-
-<!---
-LeoXdev/LeoXdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
