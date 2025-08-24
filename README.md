@@ -1,27 +1,22 @@
-# 👋 Hi, I’m Leonardo Tovíaz aka LeoXdev
+# 😇🙏 Leonardo Toviaz offline, LeoXdev online
 
-Fourth year CS student, learning everyday but also having fun.
+### Interesting stuff I've worked on:
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning some DSA/math/CCNA...
-- 💞️ I’m looking to collaborate on ...
-              <!-- Reach me section -->
+#### Megaman X Virus Mission 3 (since 2021, still in progress).
+<a href="https://www.youtube.com/playlist?list=PLHuo4_DF41LmKUW3BENgPt9uWaB8Sf45r" target="_blank" rel="noopener noreferrer">Showcase (Youtube playlist)</a>
 
-<h3 align="left">You can reach me on:</h3>
-<p align="left">
+#### SurveillanceMapper (2025, finished).
+<a href="https://leoxdev.github.io/SurveillanceMapper/" target="_blank" rel="noopener noreferrer">Demo (Github Pages deploy)</a>
 
-<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="youtube" height="35" width="35"/>
-<a href="https://www.youtube.com/channel/UC2_GPZyj6cS1P0t7bizBOnA" target="_blank" rel="noopener noreferrer">The Youtube channel where I uploaded some videos about my Megaman fangame, altough it's been left kind of neglected lately.</a>
 
-</p>
-
-<h3 align="left">Technologies where I know a thing or three:</h3>
-(Either by having used them in the past or in the present). <br>
+### Technologies where I know a thing or three:
 
 <p align="left">
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java" height="40" width="40" style="margin-right: 10px;"/>
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/go.svg" alt="golang" height="40" width="40" style="margin-right: 10px;"/>
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="40" width="40" style="margin-right: 10px;"/>
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/GameEngines/unity.svg" alt="unity" height="40" width="40" style="margin-right: 10px;"/>
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/git.svg" alt="git" height="40" width="40"/>
+  <img title="Java" alt="java" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" height="40" width="40" style="margin-right: 10px;"/>
+  <img title="Golang" alt="golang" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/go.svg" height="40" width="40" style="margin-right: 10px;"/>
+  <img title="Javascript" alt="javascript" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" height="40" width="40" style="margin-right: 10px;"/>
+  <img title="C++" alt="cpp" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/cpp.svg" height="40" width="40" style="margin-right: 10px;"/>
+  <img title="Unity Engine" alt="unity" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/GameEngines/unity.svg" height="40" width="40" style="margin-right: 10px;"/>
+  <img title="Git" alt="git" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/git.svg" height="40" width="40"/>
+  <img title="Bash" alt="bash" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Devops/bash.svg" height="40" width="40"/>
 </p>
