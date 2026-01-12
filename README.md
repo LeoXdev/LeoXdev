@@ -1,22 +1,24 @@
 # 😇🙏 Leonardo Toviaz offline, LeoXdev online
 
-### Interesting stuff I've worked on:
+### Stuff I've made (personal projects):
 
-#### Megaman X Virus Mission 3 (since 2021, still in progress).
-<a href="https://www.youtube.com/playlist?list=PLHuo4_DF41LmKUW3BENgPt9uWaB8Sf45r" target="_blank" rel="noopener noreferrer">Showcase (Youtube playlist)</a>
+#### robot-masters-heatmaps (2026, finished).
+Desktop application for analyzing gameplay footage and generating heatmaps for (8-bit graphics) Megaman games.
+
+Tech Stack: Python, PySide6 (Qt for Python), OpenCV, YOLO, NumPy.
+
+<a href="https://github.com/LeoXdev/robot-masters-heatmaps" target="_blank" rel="noopener noreferrer">Repository (Github repository)</a>
 
 #### SurveillanceMapper (2025, finished).
+Web application for geographic mapping of surveillance cameras.
+
+Tech Stack: HTML, CSS, JavaScript, OpenLayers.
+
 <a href="https://leoxdev.github.io/SurveillanceMapper/" target="_blank" rel="noopener noreferrer">Demo (Github Pages deploy)</a>
 
+#### Megaman X Virus Mission 3 (since 2021, still in progress).
+Non-commercial turn-based RPG fangame on the Unity engine.
 
-### Technologies where I know a thing or three:
+Tech Stack: Unity, Adobe Flash.
 
-<p align="left">
-  <img title="Java" alt="java" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" height="40" width="40" style="margin-right: 10px;"/>
-  <img title="Golang" alt="golang" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/go.svg" height="40" width="40" style="margin-right: 10px;"/>
-  <img title="Javascript" alt="javascript" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" height="40" width="40" style="margin-right: 10px;"/>
-  <img title="C++" alt="cpp" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/cpp.svg" height="40" width="40" style="margin-right: 10px;"/>
-  <img title="Unity Engine" alt="unity" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/GameEngines/unity.svg" height="40" width="40" style="margin-right: 10px;"/>
-  <img title="Git" alt="git" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/git.svg" height="40" width="40"/>
-  <img title="Bash" alt="bash" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Devops/bash.svg" height="40" width="40"/>
-</p>
+<a href="https://www.youtube.com/playlist?list=PLHuo4_DF41LmKUW3BENgPt9uWaB8Sf45r" target="_blank" rel="noopener noreferrer">Showcase (Youtube playlist)</a>
